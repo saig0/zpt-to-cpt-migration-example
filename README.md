@@ -1,2 +1,4 @@
 # zpt-to-cpt-migration-example
-Example migration project for ZPT to CPT
+
+This repository contains examples to demonstrate the migration of process tests written in Zeebe Process Test (ZPT)
+to Camunda Process Test (CPT).
